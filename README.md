@@ -1,3 +1,4 @@
+```bash
 fast-cached-api/
 │
 ├── src/                     # Código fonte da aplicação
@@ -15,7 +16,7 @@ fast-cached-api/
 ├── pyproject.toml           # Configurações do Poetry
 └── README.md                # Documentação do projeto
 
-
+```
 
 
 
